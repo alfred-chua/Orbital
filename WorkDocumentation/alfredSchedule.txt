@@ -1,0 +1,18 @@
+Schedule of Work (Alfred):
+
+Liftoff (Week 1):
+Making of Poster and Video (4h)
+Zoom Meeting with Advisor (0.5h)
+
+Total: 4.5h
+------
+
+Week 2:
+Mon (19/5)
+- Watch video on React (2.5h)
+- Reading notes on React (1h)
+
+Tue (20/5)
+- Watch video on Git and GitHub (2h)
+- Reading notes on GitHub (1h)
+- Setting up Orbital GitHub repository (1h)
